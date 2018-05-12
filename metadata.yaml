@@ -1,0 +1,25 @@
+_repo: The-Pioneer-Trail_44987
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44987-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lambourne, Alfred
+    gutenberg_agent_id: '43022'
+    url: http://www.gutenberg.org/2009/agents/43022
+description: ''
+gutenberg_issued: '2014-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44987'
+  lccn: '18016267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcc 'F590.3'
+title: The Pioneer Trail
+url: http://www.gutenberg.org/ebooks/44987
